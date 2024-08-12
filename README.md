@@ -1,5 +1,6 @@
 ### Software Engineer
 
-I'm passionate software engineer with a knack for building robust and scalable software solutions, blending aesthetic designs of picture and creative writeups with functional modules of Web and mobile apps.  My journey in the world of tech began in 2016, and I strive for a better and bigger career. Opened to join like-mind teams and also collaborate with people for the business... Learning is the way to greatness, Love learning from anyone that have what I need.
+A dedicated and innovative Software and DevOps Engineer with expertise in designing, developing, and maintaining high-quality software applications. Skilled in writing clean, efficient, and scalable code. Experienced in full-stack development, problem-solving, and continuously learning new technologies to build innovative solutions that meet user needs and business goals.
 
+Experienced in automating infrastructure, enhancing CI/CD pipelines, and deploying cloud-based applications. Proficient in various programming languages, containerization technologies, and cloud platforms, with a strong focus on improving software delivery processes and ensuring smooth collaboration between development and operations teams
 
