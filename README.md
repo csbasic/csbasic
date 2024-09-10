@@ -1,4 +1,4 @@
-### Software & DevOps Engineer
+### DevOps & Software Engineer
 
 A dedicated and innovative DevOps and Software Engineer, experienced in automating infrastructure, enhancing CI/CD pipelines, and deploying cloud-based applications. Proficient in Scripting, containerization and orchestration technologies, and cloud platforms, with a strong focus on improving software delivery processes and ensuring smooth collaboration between development and operations teams
 
